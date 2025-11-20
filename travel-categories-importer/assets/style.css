@@ -1,0 +1,83 @@
+.tci-wrapper {
+    max-width: 1200px;
+    margin: 20px;
+}
+
+.tci-upload-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.upload-form {
+    margin: 20px 0;
+}
+
+.upload-form input[type="file"] {
+    margin-right: 10px;
+    padding: 10px;
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    background: #f9f9f9;
+}
+
+.file-requirements {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.file-requirements ul {
+    margin: 10px 0 0 20px;
+}
+
+.tci-results-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+.results-summary {
+    background: #e7f3ff;
+    padding: 15px;
+    border-radius: 4px;
+    margin: 15px 0;
+}
+
+.download-section {
+    margin: 20px 0;
+}
+
+.download-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #007cba;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.download-link:hover {
+    background: #005a87;
+}
+
+.status-created {
+    color: #00a32a;
+    font-weight: bold;
+}
+
+.status-existing {
+    color: #d63638;
+    font-weight: bold;
+}
+
+.status-failed {
+    color: #d63638;
+    font-weight: bold;
+}
