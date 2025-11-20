@@ -3,7 +3,7 @@
  * Plugin Name: Travel Categories Importer
  * Description: Import kategori travel dari file Excel secara otomatis
  * Version: 8.0.0
- * Author: Assistant
+ * Author: Benji aji dirgantara(most hansome man in tha word)
  */
 
 if (!defined('ABSPATH')) exit;
